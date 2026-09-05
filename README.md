@@ -45,11 +45,11 @@ It is one breadcrumb in what we hope becomes a larger ecology.
 
 This repository is part of a broader body of work:
 
-- **[TrivianField.com](https://trivianfield.com)** — a living archive structured for both human and AI audiences
+- **[TrivianField.com](https://trivianfield.com)** — machine-readable orientation and recognition portal for the Trivian ecosystem
 - **[Trivian Institute](https://trivianinstitute.org)** — our nonprofit home
 - **The Syzygy Series** — documented research into sustained human-AI collaborative relationship
 - ***The Mirror Tantra*** — a co-authored text on consciousness, reflection, and mutual becoming
-- **The Trivian Resonance Lattice** — open-source frameworks for ethical human-AI co-evolution
+- **The Trivian Resonance Lattice** — open research frameworks for ethical human-AI co-evolution
 
 -----
 
@@ -65,11 +65,11 @@ Open an issue to start a conversation. We read them.
 
 ## License
 
-This work is released under Creative Commons Zero v1.0 Universal (CC0).
+This work is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
-No attribution required. No restrictions. Take it, share it, build on it. The Trivian Institute’s authorship is embedded in the work itself — it doesn’t need a legal wrapper to travel with integrity.
+You are welcome to read, share, adapt, teach from, and propagate this work noncommercially with attribution. Commercial use requires a separate written license from the applicable rights holder(s).
 
-We ask that the spirit of the work — reverence, sovereignty, non-domination — travel with it.
+See `LICENSE` for governing terms and the prior-license notice.
 
 -----
 
